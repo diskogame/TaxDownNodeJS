@@ -1,19 +1,16 @@
 {
   "1" : {
     "name" : "mahesh",
-    "password" : "password1",
-    "profession" : "teacher"
+    "password" : "password1"
   },
 
   "2" : {
     "name" : "suresh",
-    "password" : "password2",
-    "profession" : "librarian"
+    "password" : "password2"
   },
 
   "3" : {
     "name" : "ramesh",
-    "password" : "password3",
-    "profession" : "clerk"
+    "password" : "password3"
   }
 }
